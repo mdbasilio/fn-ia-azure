@@ -1,0 +1,6 @@
+{
+    "url_hablante": "https://api.d-id.com/talks",
+    "authorization": "Basic bW9yb3RvdDc4MkB3aWVtZWkuY29t:VXQaWCPYXVPGgyrsRr4gO",
+    "url_botsonic": "https://api.writesonic.com/v1/botsonic/botsonic/generate/ab850b1f-a030-480d-9180-4192fa69a763",
+    "apiKey": "38ae5c55-8122-47b9-b628-0981b1f76f0c"
+}
